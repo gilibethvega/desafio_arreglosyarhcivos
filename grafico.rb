@@ -3,7 +3,7 @@ def chart(array)
   n.times do |i|
       print "|"
       (array[i]).times do |i|
-          print "**"
+        print "**"
       end
   print "\n"
   end
@@ -23,5 +23,6 @@ def chart(array)
   end
   print "\n"
 end
+
 
 
